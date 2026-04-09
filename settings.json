@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online 24/7"
+    "type": "offline"
   },
   "server": {
-    "ip": "UnityRealms.aternos.me",
+    "ip": "UnityRealms.aternos.me:34084",
     "port": 34084,
     "version": "",
     "try-creative": false
